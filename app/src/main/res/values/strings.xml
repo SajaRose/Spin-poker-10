@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Spin Poker 10</string>
+    <string name="game_title">SPIN POKER</string>
+    <string name="game_subtitle">JACKS OR BETTER · 10 LIGNES</string>
+    <string name="credits">CRÉDITS</string>
+    <string name="bet_per_line">MISE / LIGNE</string>
+    <string name="bet_total">MISE TOTALE</string>
+    <string name="win">GAIN</string>
+    <string name="deal">DISTRIBUER</string>
+    <string name="draw">TIRAGE</string>
+    <string name="bet_max">MISE MAX</string>
+    <string name="paytable">TABLE DES GAINS</string>
+    <string name="free_credits">+500 CRÉDITS</string>
+    <string name="hold">GARDÉ</string>
+    <string name="insufficient_credits">Crédits insuffisants : appuyez sur +500.</string>
+    <string name="hold_hint">Touchez une carte pour la garder, puis TIRAGE.</string>
+    <string name="close">FERMER</string>
+</resources>
